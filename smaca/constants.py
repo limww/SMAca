@@ -29,26 +29,9 @@ HEADER_FILE = \
  "std_control|" \
  "g.27134T>G|" \
  "g.27706_27707delAT|" \
- "avg_cov_ACAD9|" \
- "avg_cov_ATR|" \
  "avg_cov_CYP11B1|" \
- "avg_cov_EDNRB|" \
- "avg_cov_FASTKD2|" \
- "avg_cov_FOXN1|" \
- "avg_cov_HEXB|" \
  "avg_cov_IQCB1|" \
- "avg_cov_ITGA6|" \
- "avg_cov_IVD|" \
- "avg_cov_LMNA|" \
- "avg_cov_LRPPRC|" \
- "avg_cov_NTRK1|" \
- "avg_cov_PTEN|" \
- "avg_cov_RAB3GAP1|" \
- "avg_cov_RAPSN|" \
- "avg_cov_SIL1|" \
- "avg_cov_SLC22A5|" \
- "avg_cov_SLC35D1|" \
- "avg_cov_STIM1"
+ 
 
 POSITIONS = {
     REF_HG19: {
